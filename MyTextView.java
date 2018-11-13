@@ -33,6 +33,7 @@ public class MyTextView extends TextView {
     }
 
 
+//测试出了BUG 这里面做了修改，啦啦啦
     @Override
     public boolean onTouchEvent(MotionEvent event) {
         Log.e("asdhds", "View-----onTouchEvent---super");
