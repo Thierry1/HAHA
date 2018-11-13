@@ -10,7 +10,7 @@ import android.widget.TextView;
 /**
  * 爱生活，爱代码
  * 创建于：2018/11/13 14:30
- * 作 者：T
+ * 作 者：T 哈哈哈哈哈
  * 微信：704003376
  */
 public class MyTextView extends TextView {
