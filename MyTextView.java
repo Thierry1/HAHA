@@ -39,4 +39,10 @@ public class MyTextView extends TextView {
         Log.e("asdhds", "View-----onTouchEvent---super");
         return super.onTouchEvent(event);
     }
+
+    
+	//添加新方法
+	public void setOnItemClickListenner(){
+	
+	}
 }
